@@ -22,8 +22,6 @@ We considered syntactic, lexical, technical, and contextual features:
 - New specific word feature
 - Sentence importance score
 
-![1702121524777](image/README/1702121524777.png)
-
 ## Models and Methodologies
 
 We evaluated various machine learning and deep learning methodologies:
@@ -33,6 +31,8 @@ We evaluated various machine learning and deep learning methodologies:
 - **Decision Trees and Ensemble Methods (RFC and XGBoost)**: To handle complex decision boundaries.
 - **Artificial Neural Networks (ANN)**: Including LSTM for sequential data processing.
 - **Graph Neural Networks (GNN)**: To consider the interconnected nature of dialogue.
+
+![features](most_important_features.png)
 
 ## Results
 
