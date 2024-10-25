@@ -12,7 +12,11 @@ Our project aimed to develop a model capable of accurately predicting the import
 
 The dataset consists of 137 dialogues (97 for training) between four protagonists. Each message in the dialogues is labeled for importance, along with causal links such as continuation, elaboration, and explanation.
 
-![features](images/graph.png) 
+
+<p align="center">
+  <img src="images/graph.png" alt="Graph for conversation ES2002a" width="400"/>
+</p>
+<p align="center"><b>Graph for conversation ES2002a</b></p>
 
 ### Features
 
