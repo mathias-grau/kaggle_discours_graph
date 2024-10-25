@@ -2,6 +2,10 @@
 
 This repository contains the code and documentation for our Kaggle project titled "Extractive Summarization with Discourse Graphs: A Kaggle Project on Identifying Key Messages in Business Dialogues." Our team, comprising Samuel Gaudin, Mathias Grau, and Alexandre ver Hulst from École Polytechnique, has developed a system for identifying key messages in professional dialogues using advanced machine learning techniques.
 
+Acces to report and presentation : 
+- [Report](Kaggle_Report.pdf)
+- [Presentation](https://docs.google.com/presentation/d/18vy1SKKbggmyhUbXbB6B1u5zj-in9ekTb-XvCYqMJ0E/edit?usp=sharing)
+
 ## Project Overview
 
 Our project aimed to develop a model capable of accurately predicting the importance of a message in business dialogues. We explored various feature sets and machine learning models, including traditional algorithms like logistic regression and XGBoost, as well as deep learning approaches like neural networks.
