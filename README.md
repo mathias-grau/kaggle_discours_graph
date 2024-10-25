@@ -6,9 +6,13 @@ This repository contains the code and documentation for our Kaggle project title
 
 Our project aimed to develop a model capable of accurately predicting the importance of a message in business dialogues. We explored various feature sets and machine learning models, including traditional algorithms like logistic regression and XGBoost, as well as deep learning approaches like neural networks.
 
+![features](images/description.png) 
+
 ### Data
 
 The dataset consists of 137 dialogues (97 for training) between four protagonists. Each message in the dialogues is labeled for importance, along with causal links such as continuation, elaboration, and explanation.
+
+![features](images/graph.png) 
 
 ### Features
 
@@ -32,7 +36,7 @@ We evaluated various machine learning and deep learning methodologies:
 - **Artificial Neural Networks (ANN)**: Including LSTM for sequential data processing.
 - **Graph Neural Networks (GNN)**: To consider the interconnected nature of dialogue.
 
-![features](most_important_features.png)
+
 
 ## Results
 
